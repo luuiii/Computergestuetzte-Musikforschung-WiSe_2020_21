@@ -2,7 +2,7 @@
 
 Ausblick:
 
-## 20.10. - MIR Allgemein
+## 20.10. - (AB)CMF Allgemein
 
 ## 27.10. - Matplotlib | Sinus generieren | Freq-MIDI
 
