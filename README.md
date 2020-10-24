@@ -1,8 +1,8 @@
 # Computergestuetzte-Musikforschung-WiSe_2020_21
 
-Ausblick:
-
 ## [20.10. - (AB)CMF Allgemein](CMF/00_cmf_allgemein/)
+
+Ausblick:
 
 ## 27.10. - Matplotlib | Sinus generieren | Freq-MIDI
 
