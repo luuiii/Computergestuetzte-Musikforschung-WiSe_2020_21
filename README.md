@@ -2,9 +2,9 @@
 
 ## [20.10. - (AB)CMF Allgemein](CMF/00_cmf_allgemein/)
 
-Ausblick:
+## [27.10. - Sinus generieren | Freq-MIDI](CMF/01_sinetone_midi/)
 
-## 27.10. - Matplotlib | Sinus generieren | Freq-MIDI
+Ausblick:
 
 ## 03.11. - Windowing
 
