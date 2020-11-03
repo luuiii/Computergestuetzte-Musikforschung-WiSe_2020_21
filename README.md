@@ -4,9 +4,9 @@
 
 ## [27.10. - Sinus generieren | Freq-MIDI](CMF/01_sinetone_midi/)
 
-Ausblick:
+## [03.11. - Windowing](CMF/02_windowing/)
 
-## 03.11. - Windowing
+Ausblick:
 
 ## 10.11. - Komplexe Zahlen | E-Funktion | Ähnlichkeitsmaß
 
