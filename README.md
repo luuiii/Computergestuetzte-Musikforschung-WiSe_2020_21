@@ -6,11 +6,11 @@
 
 ## [03.11. - Windowing](CMF/02_windowing/)
 
+## [10.11. - Komplexe Zahlen](CMF/03_komplexe_zahlen)
+
 Ausblick:
 
-## 10.11. - Komplexe Zahlen | E-Funktion | Ähnlichkeitsmaß
-
-## 17.11. - "Winding Machine"
+## 17.11. - Komplexe Zahlen | E-Funktion | Ähnlichkeitsmaß | "Winding Machine"
 
 ## 24.11. - DFT Implementierung und Eigenschaften
 
