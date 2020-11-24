@@ -10,9 +10,9 @@
 
 ## [17.11. - Operationen mit komplexen Zahlen](CMF/04_komp_num_op)
 
-Ausblick:
+## [24.11. - E-Funktion | Ähnlichkeitsmaß | "Winding Machine"](CMF/05_exponentialfunktion)
 
-## 24.11. - E-Funktion | Ähnlichkeitsmaß | "Winding Machine"
+Ausblick:
 
 ## 01.12. - DFT Implementierung und Eigenschaften
 
