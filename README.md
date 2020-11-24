@@ -10,17 +10,17 @@
 
 ## [17.11. - Operationen mit komplexen Zahlen](CMF/04_komp_num_op)
 
-## [24.11. - E-Funktion | Ähnlichkeitsmaß | "Winding Machine"](CMF/05_exponentialfunktion)
+## [24.11. - E-Funktion | Ähnlichkeitsmaß](CMF/05_exponentialfunktion)
 
 Ausblick:
 
-## 01.12. - DFT Implementierung und Eigenschaften
+## 01.12. - "Winding Machine"
 
-## 08.12. - STFT | LogFreq | Chroma
+## 08.12. - DFT Implementierung und Eigenschaften
 
-## 15.12. - ab hier Machine Learning
+## 15.12. - STFT | LogFreq | Chroma
 
-## 22.12. ?
+## 22.12. ? ab hier Machine Learning ?
 
 ## 12.01.
 
