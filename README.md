@@ -12,9 +12,9 @@
 
 ## [24.11. - E-Funktion | Ähnlichkeitsmaß](CMF/05_exponentialfunktion)
 
-Ausblick:
+## [01.12. - "Winding Machine"](CMF/06_winding_machine)
 
-## 01.12. - "Winding Machine"
+Ausblick:
 
 ## 08.12. - DFT Implementierung und Eigenschaften
 
