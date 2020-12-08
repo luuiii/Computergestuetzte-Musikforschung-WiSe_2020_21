@@ -14,9 +14,9 @@
 
 ## [01.12. - "Winding Machine"](CMF/06_winding_machine)
 
-Ausblick:
+## [08.12. - DFT Implementierung und Eigenschaften](CMF/07_dft_eigenschaften_implementierung)
 
-## 08.12. - DFT Implementierung und Eigenschaften
+Ausblick:
 
 ## 15.12. - STFT | LogFreq | Chroma
 
