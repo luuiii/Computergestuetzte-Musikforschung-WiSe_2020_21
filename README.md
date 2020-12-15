@@ -16,13 +16,13 @@
 
 ## [08.12. - DFT Implementierung und Eigenschaften](CMF/07_dft_eigenschaften_implementierung)
 
+## [15.12. - Heisenbergsche Unschärfe | Log-Gamma-Kompression | LogFreq](CMF/08_heisenberg_loggamma_logfreq)
+
 Ausblick:
 
-## 15.12. - STFT | LogFreq | Chroma
+## 22.12. Chroma
 
-## 22.12. ? ab hier Machine Learning ?
-
-## 12.01.
+## 12.01. ab hier Machine Learning
 
 ## 19.01.
 
